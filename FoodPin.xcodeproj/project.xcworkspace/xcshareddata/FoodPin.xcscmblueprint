@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "72196F0DDB515C26E0D51271C09224B2DA799AC9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "72196F0DDB515C26E0D51271C09224B2DA799AC9" : 9223372036854775807,
+    "069F3B9C838A9F9ACE827BC84DD08DFDC025C97D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9828581D-8BAC-41E0-ACC1-8D8B3C419AFD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "72196F0DDB515C26E0D51271C09224B2DA799AC9" : "FoodPin\/",
+    "069F3B9C838A9F9ACE827BC84DD08DFDC025C97D" : "FoodPin\/FoodPin\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FoodPin",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FoodPin.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/easonlh\/FoodPin.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "069F3B9C838A9F9ACE827BC84DD08DFDC025C97D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/easonlh\/FoodPin.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "72196F0DDB515C26E0D51271C09224B2DA799AC9"
+    }
+  ]
+}
